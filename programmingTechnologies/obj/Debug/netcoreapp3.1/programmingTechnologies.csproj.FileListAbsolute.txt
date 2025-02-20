@@ -1,0 +1,13 @@
+D:\PROG\210b\programmingTechnologies\bin\Debug\netcoreapp3.1\programmingTechnologies.exe
+D:\PROG\210b\programmingTechnologies\bin\Debug\netcoreapp3.1\programmingTechnologies.deps.json
+D:\PROG\210b\programmingTechnologies\bin\Debug\netcoreapp3.1\programmingTechnologies.runtimeconfig.json
+D:\PROG\210b\programmingTechnologies\bin\Debug\netcoreapp3.1\programmingTechnologies.runtimeconfig.dev.json
+D:\PROG\210b\programmingTechnologies\bin\Debug\netcoreapp3.1\programmingTechnologies.dll
+D:\PROG\210b\programmingTechnologies\bin\Debug\netcoreapp3.1\programmingTechnologies.pdb
+D:\PROG\210b\programmingTechnologies\obj\Debug\netcoreapp3.1\programmingTechnologies.csprojAssemblyReference.cache
+D:\PROG\210b\programmingTechnologies\obj\Debug\netcoreapp3.1\programmingTechnologies.AssemblyInfoInputs.cache
+D:\PROG\210b\programmingTechnologies\obj\Debug\netcoreapp3.1\programmingTechnologies.AssemblyInfo.cs
+D:\PROG\210b\programmingTechnologies\obj\Debug\netcoreapp3.1\programmingTechnologies.csproj.CoreCompileInputs.cache
+D:\PROG\210b\programmingTechnologies\obj\Debug\netcoreapp3.1\programmingTechnologies.dll
+D:\PROG\210b\programmingTechnologies\obj\Debug\netcoreapp3.1\programmingTechnologies.pdb
+D:\PROG\210b\programmingTechnologies\obj\Debug\netcoreapp3.1\programmingTechnologies.genruntimeconfig.cache
